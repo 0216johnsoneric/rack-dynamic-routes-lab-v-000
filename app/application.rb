@@ -1,5 +1,5 @@
 class Application
-  @@items
+  @@items = []
   # @@items = ["Apples","Carrots","Pears"]
   # @@cart = []
   #
