@@ -1,5 +1,4 @@
 class Application
-  class Application
 
   @@items = []
 
@@ -23,5 +22,4 @@ class Application
 
     resp.finish
   end
-end
 end
